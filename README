@@ -11,6 +11,7 @@ SOUS WINDOWS :
 * Creer un dossier dans lequel on stockera les repos : mkdir git_repo (par exemple)
 * Se deplacer dans le repertoire 
 * Saisir la commande : git init (qui initialisera le repertoire avec git).
+* Saisir la commande : git remote add origin git@github.org:Metinet2014/javascript.git 
 * Se rendre à l'url suivante : https://github.com/Metinet2014/Javascripts
 * Si vous n'avez pas de compte Github creez-en un.
 * Me transmettre le nom / l'email du compte pour que je m'assure qu'il y ai les droits nécessaires (même si je pense qu'en tant que depot public c'est déjà le acs).
