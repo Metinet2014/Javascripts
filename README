@@ -1,1 +1,18 @@
-cou à tous
+Pour demarrer avec GIT :
+*************************
+
+
+SOUS WINDOWS : 
+--------------
+
+* Telecharger gitbash (gratuit et très bien). 
+* Installer gitbash.
+* Grace à git bash se deplacer dans le dossier ou l'on souhaitera cloner son repo. (cd ...)
+* Creer un dossier dans lequel on stockera les repos : mkdir git_repo (par exemple)
+* Se deplacer dans le repertoire 
+* Saisir la commande : git init (qui initialisera le repertoire avec git).
+* Se rendre à l'url suivante : https://github.com/Metinet2014/Javascripts
+* Si vous n'avez pas de compte Github creez-en un.
+* Me transmettre le nom / l'email du compte pour que je m'assure qu'il y ai les droits nécessaires (même si je pense qu'en tant que depot public c'est déjà le acs).
+
+Pour la suite on voit quand on est sûr que vous pouvez y accéder.
